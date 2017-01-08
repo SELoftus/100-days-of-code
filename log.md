@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day#: Date
+### Day #: Date:
 
 **Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
+### Day 5: Date: January 7, 2017
+
+**Today's Progress**: Finished coding the Random Quote Generator. Planned layout & began coding HTML and CSS for the Local Weather Machine challenge in FreeCodeCamp.
 
 **Thoughts**:
 
@@ -14,7 +24,7 @@
 
 **Today's Progress**: Got the functionality of the quote generator working, including posting to Twitter with a hashtag included. 
 
-**Thoughts**: Just need to get the formatting of the quote text the sizer I want it, then it's done.
+**Thoughts**: Just need to get the formatting of the quote text the size I want it, then it's done.
 
 **Link(s) to work**
 1.http://codepen.io/Sarah_Elle/pen/ENzwRm
