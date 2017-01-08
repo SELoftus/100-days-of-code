@@ -18,6 +18,7 @@
 
 **Link(s) to work**
 1.http://codepen.io/Sarah_Elle/pen/ENzwRm
+
 2.http://codepen.io/Sarah_Elle/pen/qRdgKL
 
 ### Day 4: Date: January 6, 2017
