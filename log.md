@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 6: Date: January 8, 2017
+
+**Today's Progress**: Finished formatting and layout for FreeCodeCamp's Local Weather app, started work on adding the functionality using the Weather API & JavaScript button.
+
+**Thoughts**: The HTML & CSS for this one are much simpler but the JavaScript seems much more complex.
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 5: Date: January 7, 2017
 
 **Today's Progress**: Finished coding the Random Quote Generator. Planned layout & began coding HTML and CSS for the Local Weather Machine challenge in FreeCodeCamp.
