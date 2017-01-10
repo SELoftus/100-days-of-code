@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 7: Date: January 9, 2017
+
+**Today's Progress**: Worked on getting the user's geolocation for the Local Weather App for FreeCodeCamp. Looking for a way now to pass the coordinates variable from that API to the OpenWeatherMap API so it will return the user's city and country.
+
+**Thoughts**: I was right; the JavaScript/JSON is much more complex.
+
+**Link(s) to work**
+1.http://codepen.io/Sarah_Elle/pen/qRdgKL
+2.
+
 ### Day 6: Date: January 8, 2017
 
 **Today's Progress**: Finished formatting and layout for FreeCodeCamp's Local Weather app, started work on adding the functionality using the Weather API & JavaScript button.
@@ -17,7 +27,7 @@
 **Thoughts**: The HTML & CSS for this one are much simpler but the JavaScript seems much more complex.
 
 **Link(s) to work**
-1.
+1.http://codepen.io/Sarah_Elle/pen/qRdgKL
 2.
 
 ### Day 5: Date: January 7, 2017
