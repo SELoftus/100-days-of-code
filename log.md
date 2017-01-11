@@ -7,7 +7,17 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.
+1.https://www.codecademy.com/SELoftus
+2.
+
+### Day 8: Date: January 10, 2017
+
+**Today's Progress**: Started Codecademy, reviewing and practicing some basics before tackling their JavaScript lessons. 
+
+**Thoughts**: The weather app is feeling a bit too advanced and I want to get a firmer understaneding of the basics before I go on.
+
+**Link(s) to work**
+1.http://codepen.io/Sarah_Elle/pen/qRdgKL
 2.
 
 ### Day 7: Date: January 9, 2017
