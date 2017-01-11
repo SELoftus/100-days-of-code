@@ -7,7 +7,7 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.https://www.codecademy.com/SELoftus
+1.
 2.
 
 ### Day 8: Date: January 10, 2017
@@ -17,7 +17,7 @@
 **Thoughts**: The weather app is feeling a bit too advanced and I want to get a firmer understaneding of the basics before I go on.
 
 **Link(s) to work**
-1.http://codepen.io/Sarah_Elle/pen/qRdgKL
+1.https://www.codecademy.com/SELoftus
 2.
 
 ### Day 7: Date: January 9, 2017
