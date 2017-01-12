@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 0: Date: January 11, 2017
+
+**Today's Progress**: Finished Learn HTML and CSS: Part 1 on Codecademy, started Learn JavaScript, revisiting some of the basic concepts.
+
+**Thoughts**: I still plan to finish FreeCodeCamp but Codecademy's explanations are a little more beginner-friendly in a lot of ways.
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.
+
 ### Day 8: Date: January 10, 2017
 
 **Today's Progress**: Started Codecademy, reviewing and practicing some basics before tackling their JavaScript lessons. 
