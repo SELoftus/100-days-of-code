@@ -1,16 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day #: Date:
+### Day 10: Date: January 12, 2017
 
-**Today's Progress**:
+**Today's Progress**: Finished the Learn JavaScript lessons on Codecademy.
 
-**Thoughts**:
+**Thoughts**: That makes a few things I need for the weather app project on FreeCodeCamp clearer, although what I need for that is still more advanced that what I've learned so far. More classes and research.
 
 **Link(s) to work**
-1.
+1.https://www.codecademy.com/SELoftus
 2.
 
-### Day 0: Date: January 11, 2017
+### Day 9: Date: January 11, 2017
 
 **Today's Progress**: Finished Learn HTML and CSS: Part 1 on Codecademy, started Learn JavaScript, revisiting some of the basic concepts.
 
