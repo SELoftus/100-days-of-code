@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day #: Date: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
+### Day 11: Date: 
+
+**Today's Progress**: Worked on the SCSS lessons at Codecademy. Experimented more with the geolocation and weather APIs for the FreeCodeCamp weather app.
+
+**Thoughts**: SCSS would be REALLY useful for larger sites, since you can create variables and change those then recompile the CSS instead of ctrl+F-ing through a CSS file for everything you need to update. 
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.http://codepen.io/Sarah_Elle/pen/qRdgKL
+
 ### Day 10: Date: January 12, 2017
 
 **Today's Progress**: Finished the Learn JavaScript lessons on Codecademy.
