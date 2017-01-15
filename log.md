@@ -10,7 +10,17 @@
 1.
 2.
 
-### Day 11: Date: 
+### Day 12: Date: January 14, 2017
+
+**Today's Progress**: Finished the Sass and Make a Website lessons on Codecademy. I think it was estimated at 3 hours, I did it in less than one.
+
+**Thoughts**: 
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.
+
+### Day 11: Date: January 13, 2017
 
 **Today's Progress**: Worked on the SCSS lessons at Codecademy. Experimented more with the geolocation and weather APIs for the FreeCodeCamp weather app.
 
