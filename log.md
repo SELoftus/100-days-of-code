@@ -10,9 +10,19 @@
 1.
 2.
 
+### Day 13: Date: January 15, 2017
+
+**Today's Progress**: Did a brief JS animation tutorial from Codecademy (copied to CodePen w/ a comment referencing this so I can study it later).
+
+**Thoughts**:
+
+**Link(s) to work**
+1.http://codepen.io/Sarah_Elle/pen/PWGKOz
+2.
+
 ### Day 12: Date: January 14, 2017
 
-**Today's Progress**: Finished the Sass and Make a Website lessons on Codecademy. I think it was estimated at 3 hours, I did it in less than one.
+**Today's Progress**: Finished the Sass and Make a Website lessons on Codecademy. I think that last was estimated at 3 hours, I did it in less than one.
 
 **Thoughts**: 
 
