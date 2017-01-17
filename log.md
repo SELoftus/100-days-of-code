@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 14: Date: January 16, 2017
+
+**Today's Progress**: Quieter day today, working through the HTML & CSS lessons on Codecademy so I can get to the next JavaScript lesson.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.
+
 ### Day 13: Date: January 15, 2017
 
 **Today's Progress**: Did a brief JS animation tutorial from Codecademy (copied to CodePen w/ a comment referencing this so I can study it later). Finished Codecademy's 'Deploy a Website' lesson & uploaded page to Github, began HTML & CSS. Started revamp of FreeCodeCamp portfolio page to make better use of Bootstrap & reduce code bloat.
