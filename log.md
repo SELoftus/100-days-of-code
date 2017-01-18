@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 15: Date: January 17, 2017
+
+**Today's Progress**: Finished the HTML & CSS lessons on Codecademy, started the Python course. Laid out the basic HTML structure for a new index page for the FreeCodeCamp Portfolio.
+
+**Thoughts**: I should do a quick Bootstrap review tomorrow before I begin fleshing out the index page with content & CSS.
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.https://github.com/SELoftus/FreeCodeCamp
+
 ### Day 14: Date: January 16, 2017
 
 **Today's Progress**: Quieter day today, working through the HTML & CSS lessons on Codecademy so I can get to the next JavaScript lesson.
