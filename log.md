@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 16: Date: January 18, 2017
+
+**Today's Progress**: Python and JavaScript lessons on Codecademy, plus some HTML and CSS outlined (on paper, during lulls in D&D).
+
+**Thoughts**: I want to finish the JavaScript before I move on to Python.
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 15: Date: January 17, 2017
 
 **Today's Progress**: Finished the HTML & CSS lessons on Codecademy, started the Python course. Laid out the basic HTML structure for a new index page for the FreeCodeCamp Portfolio.
