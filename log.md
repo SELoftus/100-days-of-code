@@ -10,15 +10,18 @@
 1.
 2.
 
-### Day #: Date: 
+### Day 17: Date: January 19, 2017
 
-**Today's Progress**:
+**Today's Progress**: Checked out a couple of new coding sites (Codewars, Dash, The Odin Project, some others), worked with JavaScript some more, including building the 'rock, paper, scissors' game for Codecademy.
 
-**Thoughts**:
+**Thoughts**: The amount of available resources is amazing. Quite a change from teaching myself HTML in '95! 
+
+I'll do more with Codewars once I've got more coding ability to draw on.
 
 **Link(s) to work**
-1.
-2.
+1. https://github.com/SELoftus/FreeCodeCamp/blob/master/rock_paper_scissors.js
+2. https://www.codewars.com/users/SELoftus
+3.http://www.theodinproject.com/users/66504
 
 ### Day 16: Date: January 18, 2017
 
