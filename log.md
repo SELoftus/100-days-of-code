@@ -10,6 +10,18 @@
 1.
 2.
 
+### Day 18: Date: January 20, 2017
+
+**Today's Progress**: Read up on some advanced HTML techniques. Personalized the website from the first GA Dash tutorial. More JavaScript on Codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://dash.generalassemb.ly/SELoftus/build-your-own-personal-website
+2.
+
+
+
 ### Day 17: Date: January 19, 2017
 
 **Today's Progress**: Checked out a couple of new coding sites (Codewars, Dash, The Odin Project, some others), worked with JavaScript some more, including building the 'rock, paper, scissors' game for Codecademy.
