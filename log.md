@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day #: Date: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 16: Date: January 18, 2017
 
 **Today's Progress**: Python and JavaScript lessons on Codecademy, plus some HTML and CSS outlined (on paper, during lulls in D&D).
