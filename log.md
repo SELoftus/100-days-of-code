@@ -12,15 +12,13 @@
 
 ### Day 18: Date: January 20, 2017
 
-**Today's Progress**: Read up on some advanced HTML techniques. Personalized the website from the first GA Dash tutorial. More JavaScript on Codecademy.
+**Today's Progress**: Read up on advanced HTML. Personalized the website from the first GA Dash tutorial. More JavaScript on Codecademy.
 
 **Thoughts**:
 
 **Link(s) to work**
 1.https://dash.generalassemb.ly/SELoftus/build-your-own-personal-website
-2.
-
-
+2.https://www.codecademy.com/SELoftus
 
 ### Day 17: Date: January 19, 2017
 
