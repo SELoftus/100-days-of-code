@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 19: Date: January 21, 2017
+
+**Today's Progress**: Responsive design, CSS, JavaScript and jQuery on GA Dash. 
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://dash.generalassemb.ly/SELoftus/build-your-own-business-website
+2.
+
 ### Day 18: Date: January 20, 2017
 
 **Today's Progress**: Read up on advanced HTML. Personalized the website from the first GA Dash tutorial. More JavaScript on Codecademy.
