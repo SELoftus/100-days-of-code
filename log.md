@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 20 : Date: January 22, 2017
+
+**Today's Progress**: Basic CSS, for the build your own blog theme and build your own small business website challenges on GA Dash. Some CSS animations and jQuery.
+
+**Thoughts**: The code on dash isn't quite working, but I'm passing the checkpoints. Checked the FB group & it seems some of the tutorials are outdated. Tried disabling some add-ons and clearing the cache, no luck. I'll finish it and if it's still not working move it to CodePen or my local drive and work it out.
+
+**Link(s) to work**
+1.https://dash.generalassemb.ly/SELoftus/build-your-own-blog-theme
+2.https://dash.generalassemb.ly/SELoftus/build-your-own-business-website
+
 ### Day 19: Date: January 21, 2017
 
 **Today's Progress**: Responsive design, CSS, JavaScript and jQuery on GA Dash. 
