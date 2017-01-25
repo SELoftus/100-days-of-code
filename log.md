@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 21: Date: January 24, 2017
+
+**Today's Progress**: Worked on JavaScript on Codecademy. Missed yesterday because I was sick & so loopy from not sleeping I just could not follow a logical flow.
+
+**Thoughts**: I think JS might be starting to click.
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.
+
 ### Day 20 : Date: January 22, 2017
 
 **Today's Progress**: Basic CSS, for the build your own blog theme and build your own small business website challenges on GA Dash. Some CSS animations and jQuery.
