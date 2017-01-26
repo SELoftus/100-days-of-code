@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 22: Date: January 25, 2017
+
+**Today's Progress**: More JavaScript: loops, control flow, arrays, objects, and Choose Your Own Adventure 2 on Codecademy.
+
+**Thoughts**: Definitely making progress with JS now - needing to do much less research for each lesson now.
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.
+
 ### Day 21: Date: January 24, 2017
 
 **Today's Progress**: Worked on JavaScript on Codecademy. Missed yesterday because I was sick & so loopy from not sleeping I just could not follow a logical flow.
