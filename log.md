@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 23: Date: January 26, 2017
+
+**Today's Progress**: Busy day today, not much time to code. Worked on Data Structures & Objects in JS on Codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 22: Date: January 25, 2017
 
 **Today's Progress**: More JavaScript: loops, control flow, arrays, objects, and Choose Your Own Adventure 2 on Codecademy.
