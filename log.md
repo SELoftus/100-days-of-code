@@ -2,13 +2,23 @@
 
 ### Day #: Date: 
 
-**Today's Progress**:
+**Today's Progress**: 
 
 **Thoughts**:
 
 **Link(s) to work**
 1.
 2.
+
+### Day 24: Date: January 27, 2017
+
+**Today's Progress**: More work with JavaScript objects on @Codecademy. Signed up for #javascript30, 30 JavaScript tutorials in as many days.
+
+**Thoughts**: 30 JavaScript tutorials in as many days doesn't sound nearly as intimidating at this point as it would have six weeks ago.
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.javascript30.com
 
 ### Day 23: Date: January 26, 2017
 
@@ -17,7 +27,7 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.
+1.https://www.codecademy.com/SELoftus
 2.
 
 ### Day 22: Date: January 25, 2017
