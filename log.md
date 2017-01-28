@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 25: Date: January 28, 2017
+
+**Today's Progress**: Finished the first tutorial for #JavaScript 30, the drum kit. Missed a few typos and had to debug but got it running.
+
+**Thoughts**:
+
+**Link(s) to work**
+1. Drum kit: https://github.com/SELoftus/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
+2.
+
 ### Day 24: Date: January 27, 2017
 
 **Today's Progress**: More work with JavaScript objects on @Codecademy. Signed up for #javascript30, 30 JavaScript tutorials in as many days.
