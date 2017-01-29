@@ -12,13 +12,13 @@
 
 ### Day 25: Date: January 28, 2017
 
-**Today's Progress**: Finished the first tutorial for #JavaScript 30, the drum kit. Missed a few typos and had to debug but got it running.
+**Today's Progress**: Finished the first tutorial for #JavaScript 30, the drum kit. Missed a few typos and had to debug but got it running. Worked on some basics of Object Oriented Programming.
 
-**Thoughts**:
+**Thoughts**: Using JS to do build an interactive page wasn't as difficult as I worried it would be. 
 
 **Link(s) to work**
 1. Drum kit: https://github.com/SELoftus/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
-2.
+2. https://www.codecademy.com/SELoftus
 
 ### Day 24: Date: January 27, 2017
 
