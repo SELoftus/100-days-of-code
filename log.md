@@ -7,6 +7,16 @@
 **Thoughts**:
 
 **Link(s) to work**
+1.JS and CSS clock: https://github.com/SELoftus/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock
+2. https://www.codecademy.com/SELoftus
+
+### Day 26: Date: January 29, 2017
+
+**Today's Progress**: Completed the 2nd #JavaScript30 tutorial, a JS and CSS clock. Managed to eliminate the flicker when the degree the hand(s) are set at rolls over to 0 by removing the transition property. A little more work with JavaScript plus some more basics of OOP on Codecademy again.
+
+**Thoughts**: Now that I've got a better handle on JavaScript I should start back up with FreeCodeCamp again.
+
+**Link(s) to work**
 1.
 2.
 
