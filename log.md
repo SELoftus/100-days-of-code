@@ -7,8 +7,18 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.JS and CSS clock: https://github.com/SELoftus/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock
-2. https://www.codecademy.com/SELoftus
+1.
+2.
+
+### Day 27: Date: January 30, 2017
+
+**Today's Progress**: Third #JavaScript30 tutorial, updating CSS Variables with JS, + some work with methods & constructors on @codecademy.
+
+**Thoughts**: Following #JavaScript30 is helping make it clearer how HTML, CSS, and JS all interact, plus I really like the idea of CSS variables.
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/03%20-%20Updating%20CSS%20Variabes%20with%20JS
+2.https://www.codecademy.com/SELoftus
 
 ### Day 26: Date: January 29, 2017
 
@@ -17,8 +27,8 @@
 **Thoughts**: Now that I've got a better handle on JavaScript I should start back up with FreeCodeCamp again.
 
 **Link(s) to work**
-1.
-2.
+1.https://github.com/SELoftus/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock
+2.https://www.codecademy.com/SELoftus
 
 ### Day 25: Date: January 28, 2017
 
@@ -27,8 +37,8 @@
 **Thoughts**: Using JS to do build an interactive page wasn't as difficult as I worried it would be. 
 
 **Link(s) to work**
-1. Drum kit: https://github.com/SELoftus/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
-2. https://www.codecademy.com/SELoftus
+1.https://github.com/SELoftus/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
+2.https://www.codecademy.com/SELoftus
 
 ### Day 24: Date: January 27, 2017
 
