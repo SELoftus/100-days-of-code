@@ -10,6 +10,26 @@
 1.
 2.
 
+### Day 29: Date: February 1, 2017
+
+**Today's Progress**: Fifth JS30 tutorial, really neat flexbox gallery, and finished JavaScript on @Codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery
+2.
+
+### Day 28: Date: January 31, 2017
+
+**Today's Progress**: Did the 4th JS30 tutorial & more work with JS objects on @Codecademy. #coding #javascript
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%20w1
+2.https://www.codecademy.com/SELoftus
+
 ### Day 27: Date: January 30, 2017
 
 **Today's Progress**: Third #JavaScript30 tutorial, updating CSS Variables with JS, + some work with methods & constructors on @codecademy.
@@ -17,7 +37,7 @@
 **Thoughts**: Following #JavaScript30 is helping make it clearer how HTML, CSS, and JS all interact, plus I really like the idea of CSS variables.
 
 **Link(s) to work**
-1.https://github.com/SELoftus/JavaScript30/tree/master/03%20-%20Updating%20CSS%20Variabes%20with%20JS
+1.https://github.com/SELoftus/JavaScript30/tree/master/03%20-%20Updating%20CSS%20Variables%20with%20JS
 2.https://www.codecademy.com/SELoftus
 
 ### Day 26: Date: January 29, 2017
