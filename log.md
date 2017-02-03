@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 30: Date: February 2, 2017
+
+**Today's Progress**: 6th #JavaScript30 tutorial. JQuery functions & selectors @codecademy. Also read up on flexbox.
+
+**Thoughts**: jQuery! Here's the fun stuff.
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/06%20-%20Type%20Ahead
+2.https://www.codecademy.com/SELoftus
+
 ### Day 29: Date: February 1, 2017
 
 **Today's Progress**: Fifth JS30 tutorial, really neat flexbox gallery, and finished JavaScript on @Codecademy.
