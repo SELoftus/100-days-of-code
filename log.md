@@ -10,6 +10,18 @@
 1.
 2.
 
+### Day 31: Date: February 3, 2017
+
+**Today's Progress**: More jQuery @codecademy, day 7 JS30, worked on weather app for @freecodecamp, practiced drawing shapes with CSS.
+
+**Thoughts**: Definitely needed more of a background in JS than I had, even following FCC's map, to work on the weather app. Need to do some formatting work on the CSS shapes file so it's not just a great long column of shapes.
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.https://github.com/SELoftus/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201
+3. https://codepen.io/Sarah_Elle/pen/qRdgKL
+4. https://codepen.io/Sarah_Elle/pen/NdMmGm
+
 ### Day 30: Date: February 2, 2017
 
 **Today's Progress**: 6th #JavaScript30 tutorial. JQuery functions & selectors @codecademy. Also read up on flexbox.
@@ -37,7 +49,7 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.https://github.com/SELoftus/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%20w1
+1.https://github.com/SELoftus/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201
 2.https://www.codecademy.com/SELoftus
 
 ### Day 27: Date: January 30, 2017
