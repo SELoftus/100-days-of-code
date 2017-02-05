@@ -10,6 +10,17 @@
 1.
 2.
 
+### Day 32: Date: February 4, 2017
+
+**Today's Progress**: Day 8 #Javascript30 (HTML Canvas), jQuery @codecademy, think I've gotten the JS for the @freecodecamp weather app working, at least enough to detect the city.
+
+**Thoughts**: The weather app has been giving me trouble, but it's not more stubborn than I am.
+
+**Link(s) to work**
+1.https://www.codecademy.com/SELoftus
+2.https://github.com/SELoftus/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas
+3.http://codepen.io/Sarah_Elle/full/qRdgKL/
+
 ### Day 31: Date: February 3, 2017
 
 **Today's Progress**: More jQuery @codecademy, day 7 JS30, worked on weather app for @freecodecamp, practiced drawing shapes with CSS.
@@ -18,7 +29,7 @@
 
 **Link(s) to work**
 1.https://www.codecademy.com/SELoftus
-2.https://github.com/SELoftus/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201
+2.https://github.com/SELoftus/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202
 3. https://codepen.io/Sarah_Elle/pen/qRdgKL
 4. https://codepen.io/Sarah_Elle/pen/NdMmGm
 
