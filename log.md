@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 33: Date: February 5, 2017
+
+**Today's Progress**: Day 9 #Javascript30 (Dev Tools), working with flexbox basics, finished jQuery course @codecademy & started ReactJS.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination
+2.https://www.codecademy.com/SELoftus
+
 ### Day 32: Date: February 4, 2017
 
 **Today's Progress**: Day 8 #Javascript30 (HTML Canvas), jQuery @codecademy, think I've gotten the JS for the @freecodecamp weather app working, at least enough to detect the city.
