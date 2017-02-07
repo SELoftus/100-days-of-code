@@ -10,6 +10,17 @@
 1.
 2.
 
+### Day 34: Date: February 6, 017
+
+**Today's Progress**: Challenges on @hackerrank, Day 10 #javascript30 (shift-clicking to select a range of checkboxes), alignment & centering in flexbox, ReactJS on @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes
+2.https://www.codecademy.com/SELoftus
+3.https://github.com/SELoftus/What-The-Flexbox-complete/tree/master/alignment-and-centering
+
 ### Day 33: Date: February 5, 2017
 
 **Today's Progress**: Day 9 #Javascript30 (Dev Tools), working with flexbox basics, finished jQuery course @codecademy & started ReactJS.
