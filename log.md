@@ -10,7 +10,17 @@
 1.
 2.
 
-### Day 34: Date: February 6, 017
+### Day 25: Date: February 7, 2017
+
+**Today's Progress**: Day 11 #javascript30. Everything done except the fullscreen button. Looks like it should work but doesn't yet. Will come back to it tomorrow with fresh brain & coffee.
+
+**Thoughts**: Possibly lots of coffee.
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player%20
+2.
+
+### Day 34: Date: February 6, 2017
 
 **Today's Progress**: Challenges on @hackerrank, Day 10 #javascript30 (shift-clicking to select a range of checkboxes), alignment & centering in flexbox, ReactJS on @codecademy.
 
