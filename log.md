@@ -10,7 +10,7 @@
 1.
 2.
 
-### Day 25: Date: February 7, 2017
+### Day 35: Date: February 7, 2017
 
 **Today's Progress**: Day 11 #javascript30. Everything done except the fullscreen button. Looks like it should work but doesn't yet. Will come back to it tomorrow with fresh brain & coffee.
 
