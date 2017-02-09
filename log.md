@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 36: Date: February 8, 2017
+
+**Today's Progress**: Day 12 #javascript30. Still trying to get fullscreen for Day 11 to work - inspecting the code shows that it does respond when the button is clicked, by adding the fullscreen class to the player, but it doesn't actually go fullscreen. Problem occurs on multiple computers & browsers.
+
+**Thoughts**: Conflict with the Shadow DOM? Which is one of the coolest names for a thing ever.
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player
+2.https://github.com/SELoftus/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection
+
 ### Day 35: Date: February 7, 2017
 
 **Today's Progress**: Day 11 #javascript30. Everything done except the fullscreen button. Looks like it should work but doesn't yet. Will come back to it tomorrow with fresh brain & coffee.
@@ -17,7 +27,7 @@
 **Thoughts**: Possibly lots of coffee.
 
 **Link(s) to work**
-1.https://github.com/SELoftus/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player%20
+1.https://github.com/SELoftus/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player
 2.
 
 ### Day 34: Date: February 6, 2017
