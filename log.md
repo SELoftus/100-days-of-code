@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 37: Date: February 9, 2017
+
+**Today's Progress**: Day 13 #javascript30, a little bit of flexbox with What the Flex?, ReactJS on @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.https://github.com/SELoftus/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll
+2.
+
 ### Day 36: Date: February 8, 2017
 
 **Today's Progress**: Day 12 #javascript30. Still trying to get fullscreen for Day 11 to work - inspecting the code shows that it does respond when the button is clicked, by adding the fullscreen class to the player, but it doesn't actually go fullscreen. Problem occurs on multiple computers & browsers.
