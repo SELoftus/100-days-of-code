@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 38: Date: February 10, 2017
+
+**Today's Progress**: Day 14 #javascript30, flexbox with What the Flex?, ReactJS on @codecademy.
+
+**Thoughts**: ReactJS is a lot easier to learn than Javascript, probably due to the founding I have in Javascript.
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 37: Date: February 9, 2017
 
 **Today's Progress**: Day 13 #javascript30, a little bit of flexbox with What the Flex?, ReactJS on @codecademy.
