@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 39: Date: February 11, 2017
+
+**Today's Progress**: Day 15 #javascript30, working with local storage. Also, how to make a checkmark look like a taco.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 38: Date: February 10, 2017
 
 **Today's Progress**: Day 14 #javascript30, flexbox with What the Flex?, ReactJS on @codecademy.
