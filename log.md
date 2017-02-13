@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 40: Date: February 12, 2017
+
+**Today's Progress**: Day 16 #javascript30, ReactJS components on @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 39: Date: February 11, 2017
 
 **Today's Progress**: Day 15 #javascript30, working with local storage. Also, how to make a checkmark look like a taco.
