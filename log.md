@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 41: Date: February 13, 2017
+
+**Today's Progress**: Day 17 #javascript30, flexbox navigation with What the Flexbox? and more ReactJS components @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 40: Date: February 12, 2017
 
 **Today's Progress**: Day 16 #javascript30, ReactJS components on @codecademy.
