@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 42: Date: February 14, 2017
+
+**Today's Progress**: Built flat menu with flip effect using CSS animation.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.http://codepen.io/Sarah_Elle/full/MJLXjP/
+2.
+
 ### Day 41: Date: February 13, 2017
 
 **Today's Progress**: Day 17 #javascript30, flexbox navigation with What the Flexbox? and more ReactJS components @codecademy.
