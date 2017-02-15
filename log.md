@@ -12,13 +12,13 @@
 
 ### Day 42: Date: February 14, 2017
 
-**Today's Progress**: Built flat menu with flip effect using CSS animation.
+**Today's Progress**: Built flat menu with flip effect using CSS animation. Day 18 #javascript30.
 
-**Thoughts**:
+**Thoughts**: After JS, I want to learn more CSS animation.
 
 **Link(s) to work**
 1.http://codepen.io/Sarah_Elle/full/MJLXjP/
-2.
+2.https://github.com/SELoftus/JavaScript30/tree/master/13%20-%20Adding%20Up%20Times%20With%Reduce
 
 ### Day 41: Date: February 13, 2017
 
