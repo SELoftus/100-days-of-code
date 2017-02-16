@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 43: Date: February 15, 2017
+
+**Today's Progress**: Day 19 #javascript30, some more ReactJS on @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 42: Date: February 14, 2017
 
 **Today's Progress**: Built flat menu with flip effect using CSS animation. Day 18 #javascript30.
