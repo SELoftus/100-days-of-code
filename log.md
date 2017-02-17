@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 44: Date: February 16, 2007
+
+**Today's Progress**: Day 20 #javascript30 - speech recognition! this was a fun one - and ReactJS on @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 43: Date: February 15, 2017
 
 **Today's Progress**: Day 19 #javascript30, some more ReactJS on @codecademy.
