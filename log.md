@@ -10,7 +10,17 @@
 1.
 2.
 
-### Day 44: Date: February 16, 2007
+### Day 45: Date: February 17, 2017
+
+**Today's Progress**: Began converting an older page to Bootstrap, brushed up on Git, Day 21 #javascript30.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
+### Day 44: Date: February 16, 2017
 
 **Today's Progress**: Day 20 #javascript30 - speech recognition! this was a fun one - and ReactJS on @codecademy.
 
