@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 46: Date: February 18, 2017
+
+**Today's Progress**: Day 22 #javascript30, ReactJS on @codecademy, a little bit of jQuery to finish up the day.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 45: Date: February 17, 2017
 
 **Today's Progress**: Began converting an older page to Bootstrap, brushed up on Git, Day 21 #javascript30.
