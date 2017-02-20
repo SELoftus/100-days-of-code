@@ -12,13 +12,13 @@
 
 ### Day 48: Date: February 20, 2017
 
-**Today's Progress**: Styled the Local Weather App for @freecodecamp.
+**Today's Progress**: Styled the Local Weather App & did pseudocoding & basic layout for @freecodecamp's Wikipedia Viewer.
 
 **Thoughts**:
 
 **Link(s) to work**
 1.http://codepen.io/Sarah_Elle/full/qRdgKL/
-2.
+2.http://codepen.io/Sarah_Elle/full/BpXBwB/
 
 ### Day 47: Date: February 19, 2017
 
