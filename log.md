@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 48: Date: February 20, 2017
+
+**Today's Progress**: Styled the Local Weather App for @freecodecamp.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.http://codepen.io/Sarah_Elle/full/qRdgKL/
+2.
+
 ### Day 47: Date: February 19, 2017
 
 **Today's Progress**: jQuery, day 23#javascript30, & got all the functionality for the @freecodecamp weather app working!
