@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 47: Date: February 19, 2017
+
+**Today's Progress**: jQuery, day 23#javascript30, & got all the functionality for the @freecodecamp weather app working!
+
+**Thoughts**: I've spent ages on the weather app. It's the entire reason I've been head-down in Javascript/jQuery for WEEKS. And it works!
+
+**Link(s) to work**
+1.http://codepen.io/Sarah_Elle/full/qRdgKL/
+2.https://github.com/SELoftus/JavaScript30/tree/master/22%20-%20Speech%20Synthesis
+
 ### Day 46: Date: February 18, 2017
 
 **Today's Progress**: Day 22 #javascript30, ReactJS on @codecademy, a little bit of jQuery to finish up the day.
@@ -17,7 +27,7 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.
+1.https://github.com/SELoftus/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter
 2.
 
 ### Day 45: Date: February 17, 2017
@@ -27,7 +37,7 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.
+1.https://github.com/SELoftus/JavaScript30/tree/master/21%20-%20Geolocation
 2.
 
 ### Day 44: Date: February 16, 2017
@@ -37,7 +47,7 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.
+1.https://github.com/SELoftus/JavaScript30/tree/master/20%20-%20Speech%20Detection
 2.
 
 ### Day 43: Date: February 15, 2017
@@ -47,7 +57,7 @@
 **Thoughts**:
 
 **Link(s) to work**
-1.
+1.https://github.com/SELoftus/JavaScript30/tree/master/19%20-%20Webcam%20Fun
 2.
 
 ### Day 42: Date: February 14, 2017
