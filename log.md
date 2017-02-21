@@ -12,13 +12,14 @@
 
 ### Day 48: Date: February 20, 2017
 
-**Today's Progress**: Styled the Local Weather App & did pseudocoding & basic layout for @freecodecamp's Wikipedia Viewer.
+**Today's Progress**: Styled the Local Weather App & did pseudocoding & basic layout for @freecodecamp's Wikipedia Viewer. Day 24 #javascript30.
 
 **Thoughts**:
 
 **Link(s) to work**
 1.http://codepen.io/Sarah_Elle/full/qRdgKL/
 2.http://codepen.io/Sarah_Elle/full/BpXBwB/
+3.https://github.com/SELoftus/JavaScript30/tree/master/22%20-%20Stickyh%20Nav
 
 ### Day 47: Date: February 19, 2017
 
