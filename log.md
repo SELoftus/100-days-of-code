@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 49: Date: February 21, 2017
+
+**Today's Progress**: JS for the Wikipedia Viewer & Day 25 #javascript 30.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 48: Date: February 20, 2017
 
 **Today's Progress**: Styled the Local Weather App & did pseudocoding & basic layout for @freecodecamp's Wikipedia Viewer. Day 24 #javascript30.
