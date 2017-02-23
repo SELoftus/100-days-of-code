@@ -10,15 +10,27 @@
 1.
 2.
 
-### Day 49: Date: February 21, 2017
+### Day 50: Date: February 22, 2017
 
-**Today's Progress**: JS for the Wikipedia Viewer & Day 25 #javascript 30.
+**Today's Progress**: Halfway there!
+
+Day 26 #javascript30, ReactJS (this.state) on @codecademy.
 
 **Thoughts**:
 
 **Link(s) to work**
 1.
 2.
+
+### Day 49: Date: February 21, 2017
+
+**Today's Progress**: JS for the Wikipedia Viewer & Day 25 #javascript30.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.http://codepen.io/Sarah_Elle/full/BpXBwB/
+2.https://github.com/SELoftus/JavaScript30/tree/master/22%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once
 
 ### Day 48: Date: February 20, 2017
 
