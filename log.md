@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 51: Date: February 23, 2017
+
+**Today's Progress**: Finished Learn ReactJS I @codecademy, changed some CSS is the Weather App, worked on Wikipedia Viewer search function, Day 27 #javascript30.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 50: Date: February 22, 2017
 
 **Today's Progress**: Halfway there!
