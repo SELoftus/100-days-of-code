@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 52: Date: February 24, 2017
+
+**Today's Progress**: Day 28 #javascript30, started ReactJS II @codecademy, did a little testing on a mobile device.. Also read up on the reduce method for JavaScript.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 51: Date: February 23, 2017
 
 **Today's Progress**: Finished Learn ReactJS I @codecademy, changed some CSS is the Weather App, worked on Wikipedia Viewer search function, Day 27 #javascript30.
