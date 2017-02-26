@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 53 Date: February 25, 2017
+
+**Today's Progress**: Day 29 #javascript 30, React JS II on codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 52: Date: February 24, 2017
 
 **Today's Progress**: Day 28 #javascript30, started ReactJS II @codecademy, did a little testing on a mobile device.. Also read up on the reduce method for JavaScript.
