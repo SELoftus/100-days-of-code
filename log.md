@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 54: Date: February 26, 2017
+
+**Today's Progress**: The Whack-a-Mole game for Day 30 #javascript30, ReactJS @codecademy, research on Search functions for Wikipedia Viewer.
+
+**Thoughts**: I need more work with APIs and functions like Search. Time to find classes/posts/tutorials.
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 53 Date: February 25, 2017
 
 **Today's Progress**: Day 29 #javascript 30, React JS II on codecademy.
