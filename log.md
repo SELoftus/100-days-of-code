@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 55: Date: February 27, 2017
+
+**Today's Progress**: CSS, Flexbox with #whattheflexbox, ReactJS on @codecademy. Still working on the search function for Wikipedia Viewer.
+
+**Thoughts**: First day in over 30 days I haven't worked with vanilla JS itself in some form.
+
+**Link(s) to work**
+1.
+2.
+
 ### Day 54: Date: February 26, 2017
 
 **Today's Progress**: The Whack-a-Mole game for Day 30 #javascript30, ReactJS @codecademy, research on Search functions for Wikipedia Viewer.
