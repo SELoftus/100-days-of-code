@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day #: Date: 
+### Day 56: Date: February 28, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Still working on the Wikipedia Viewer. (Going to practice a lot more with APIs!) Cross your fingers it'll be up and running tomorrow.
 
-**Thoughts**:
+**Thoughts**: APIs starting to make more sense but I still have to comment everything to keep myself on track.
 
 **Link(s) to work**
-1.
+1.http://codepen.io/Sarah_Elle/pen/BpXBwB
 2.
 
 ### Day 55: Date: February 27, 2017
