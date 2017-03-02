@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day : Date: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
+### Day 57: Date: March 1, 2017
+
+**Today's Progress**: Finished the JS for @freecodecamp's Wikipedia Viewer! Still working on the CSS but the functionality is complete.
+
+**Thoughts**: You would not BELIEVE how long it took me to hunt down the missing ')' that was causing 90% of the problem. The other 10% was a wonky function.
+
+**Link(s) to work**:
+1.http://codepen.io/Sarah_Elle/pen/BpXBwB
+2.
+
 ### Day 56: Date: February 28, 2017
 
 **Today's Progress**: Still working on the Wikipedia Viewer. (Going to practice a lot more with APIs!) Cross your fingers it'll be up and running tomorrow.
