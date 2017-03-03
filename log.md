@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 58: Date: March 2, 2017
+
+**Today's Progress**: Finished CSS on Wikipedia Viewer & added a jQuery function to open search results in new window. Some ReactJS on @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 57: Date: March 1, 2017
 
 **Today's Progress**: Finished the JS for @freecodecamp's Wikipedia Viewer! Still working on the CSS but the functionality is complete.
