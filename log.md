@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 60: Date: March 3, 2017
+
+**Today's Progress**: Finished #whattheflexbox. Recommend the course if you're trying to get a handle on FB. ReactJS on @codecademy.
+
+**Thoughts**: Flexbox looks like it'll be handly with ReactJS and I like the idea of using it for responsive design.
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 58: Date: March 2, 2017
 
 **Today's Progress**: Finished CSS on Wikipedia Viewer & added a jQuery function to open search results in new window. Some ReactJS on @codecademy.
