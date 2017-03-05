@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 61: Date: March 4, 2017
+
+**Today's Progress**: A few challenges on @hackerrank, finished ReactJS II on @codecademy, some very basic layout for the next @freecodecamp API project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 60: Date: March 3, 2017
 
 **Today's Progress**: Finished #whattheflexbox. Recommend the course if you're trying to get a handle on FB. ReactJS on @codecademy.
