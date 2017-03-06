@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 52: Date: March 5, 2017
+
+**Today's Progress**: Some CSS & HTML, worked on the Twitchtv JSON API for @freecodecamp, Angular JS on @codecademy. Read up on API documentation.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 61: Date: March 4, 2017
 
 **Today's Progress**: A few challenges on @hackerrank, finished ReactJS II on @codecademy, some very basic layout for the next @freecodecamp API project.
