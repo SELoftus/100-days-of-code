@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 54: Date: March 7, 2017
+
+**Today's Progress**: Finished TwitchTV API for @freecodecamp, including styling. Angular JS @codecademy, & intermediate algorithm scripting @freecodecamp.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 53: Date: March 6, 2017
 
 **Today's Progress**: TwitchTV API for @freecodecamp, Angular JS on @codecademy. Kept reading up on APIs & API tutorials.
