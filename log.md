@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 55: Date: March 8, 2017
+
+**Today's Progress**: Intermediate JS algorithms @freecodecamp, Angular JS @codecademy.
+
+**Thoughts**: I can tell, now, what I need the algorithm to do, just still need to research and work on getting the pieces to fit together properly. Will have to look up more tutorials on working with arrays.
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 54: Date: March 7, 2017
 
 **Today's Progress**: Finished TwitchTV API for @freecodecamp, including styling. Angular JS @codecademy, & intermediate algorithm scripting @freecodecamp.
