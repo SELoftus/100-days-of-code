@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 56: Date: March 9, 2017
+
+**Today's Progress**: Some AngularJS @codecademy, Bootstrap column layouts, and an algorithm or two @freecodecamp.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 55: Date: March 8, 2017
 
 **Today's Progress**: Intermediate JS algorithms @freecodecamp, Angular JS @codecademy.
