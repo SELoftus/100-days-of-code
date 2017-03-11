@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 57: Date: March 10, 2017
+
+**Today's Progress**: Bootstrap grid system & fixed layouts, Practical JavaScript with Watch and Code, more intermediate algorithms @freecodecamp, finished Angular JS @codecademy.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 56: Date: March 9, 2017
 
 **Today's Progress**: Some AngularJS @codecademy, Bootstrap column layouts, and an algorithm or two @freecodecamp.
