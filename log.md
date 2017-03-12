@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 58: Date: March 11, 2017
+
+**Today's Progress**: Working with APIs, Python @codecademy, and algorithms @freecodecamp.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 57: Date: March 10, 2017
 
 **Today's Progress**: Bootstrap grid system & fixed layouts, Practical JavaScript with Watch and Code, more intermediate algorithms @freecodecamp, finished Angular JS @codecademy.
