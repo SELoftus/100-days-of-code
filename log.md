@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 59: Date: March 12, 2017
+
+**Today's Progress**: Python @codecademy, algorithms @freecodecamp.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 58: Date: March 11, 2017
 
 **Today's Progress**: Working with APIs, Python @codecademy, and algorithms @freecodecamp.
