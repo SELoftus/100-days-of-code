@@ -10,6 +10,17 @@
 1.
 2.
 
+### Day 61: Date: March 14, 2017
+
+**Today's Progress**: Worked with Bootstrap, Practical Javascript with Watch and Code, Python @codecademy, JS @freecodecamp.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
+
 ### Day 60: Date: March 13, 2017
 
 **Today's Progress**: Algorithms @freecodecamp, Python @codecademy.
