@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 62: Date: March 15, 2017
+
+**Today's Progress**: Portfolio page for Day 1 #30Days30Sites from @techwithtrish.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.http://codepen.io/Sarah_Elle/full/wJremj/
+2.
+
 ### Day 61: Date: March 14, 2017
 
 **Today's Progress**: Worked with Bootstrap, Practical Javascript with Watch and Code, Python @codecademy, JS @freecodecamp.
