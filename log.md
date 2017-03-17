@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 63: Date: March 16, 2017
+
+**Today's Progress**: Event Invitation for Day 2 #30Days30Sites. JavaScript algorithms @freecodecamp, Python @codecademy.
+
+**Thoughts**: I started to learn JavaScript because Python was confusing. Now I seem to have caught them up with each other.
+
+**Link(s) to work**:
+1.http://codepen.io/Sarah_Elle/full/bqYEbx/
+2.
+
 ### Day 62: Date: March 15, 2017
 
 **Today's Progress**: Portfolio page for Day 1 #30Days30Sites from @techwithtrish.
