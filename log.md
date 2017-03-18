@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 64: Date: March 17, 2017
+
+**Today's Progress**: Practice with APIs and Bootstrap, Practical JavaScript w/ Watch and Code, and a splash page for a tourist attraction for Day 3 #30Days30Sites.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.http://codepen.io/Sarah_Elle/full/rypBOy/
+2.
+
 ### Day 63: Date: March 16, 2017
 
 **Today's Progress**: Event Invitation for Day 2 #30Days30Sites. JavaScript algorithms @freecodecamp, Python @codecademy.
