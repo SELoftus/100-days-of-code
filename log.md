@@ -7,7 +7,17 @@
 **Thoughts**:
 
 **Link(s) to work**:
-1.
+1.http://codepen.io/Sarah_Elle/full/WpdXgd/
+2.
+
+### Day 65: Date: March 18, 2017
+
+**Today's Progress**: Did Bootstrap course on Udemy, built product page for #30Days30Sites day 4. 
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.http://codepen.io/Sarah_Elle/full/WpdXgd/
 2.
 
 ### Day 64: Date: March 17, 2017
