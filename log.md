@@ -7,7 +7,17 @@
 **Thoughts**:
 
 **Link(s) to work**:
-1.http://codepen.io/Sarah_Elle/full/WpdXgd/
+1.
+2.
+
+### Day 66: Date: March 19, 2017
+
+**Today's Progress**: Algorithms @freecodecamp. Sketched, wireframed, & drafted code for #30Days30Sites Day 5 - haven't quite got the uneven layout working in practice yet though. V. snazzy placeholder text though, :P.
+
+**Thoughts**: Bootstrap is getting easier and easier. And v4 is coming soon!
+
+**Link(s) to work**:
+1.
 2.
 
 ### Day 65: Date: March 18, 2017
