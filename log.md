@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 67: Date: March 20, 2017
+
+**Today's Progress**: Finished Day 5 #30Days30Sites.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 66: Date: March 19, 2017
 
 **Today's Progress**: Algorithms @freecodecamp. Sketched, wireframed, & drafted code for #30Days30Sites Day 5 - haven't quite got the uneven layout working in practice yet though. V. snazzy placeholder text though, :P.
