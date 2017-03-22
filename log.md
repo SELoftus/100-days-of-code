@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 68: Date: March 21, 2017
+
+**Today's Progress**: Finished Day 6 #30Days30Sites.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 67: Date: March 20, 2017
 
 **Today's Progress**: Finished Day 5 #30Days30Sites.
