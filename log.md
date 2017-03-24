@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 70: Date: March 23, 2017
+
+**Today's Progress**: Basic code for Day 9 #30Days30Sites, Python @codecademy, played around with modals.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 69: Date: March 22, 2017
 
 **Today's Progress**: Built Day 7 (http://bit.ly/2neRxf4), cleaned up code for Day 1, and revamped @freecodecamp tribute page with much cleaner & more functional Bootstrap as page 8 for #30Days30Sites. 
