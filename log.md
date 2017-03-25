@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 71: Date: March 24, 2017
+
+**Today's Progress**: Revamped @freecodecamp portfolio page with better code & different styling. Fleshed out Day 9 #30Days30Sites. 
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 70: Date: March 23, 2017
 
 **Today's Progress**: Basic code for Day 9 #30Days30Sites, Python @codecademy, played around with modals.
