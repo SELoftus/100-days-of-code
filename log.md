@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 72: Date: March 25, 2017
+
+**Today's Progress**: Finished Day 9 #30Days30Sites and began planning day 10.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 71: Date: March 24, 2017
 
 **Today's Progress**: Revamped @freecodecamp portfolio page with better code & different styling. Fleshed out Day 9 #30Days30Sites. 
@@ -17,7 +27,7 @@
 **Thoughts**:
 
 **Link(s) to work**:
-1.
+1.http://codepen.io/Sarah_Elle/full/XMYjxy/
 2.
 
 ### Day 70: Date: March 23, 2017
