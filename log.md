@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 73: Date: March 26, 2017
+
+**Today's Progress**: Cleaned up some code on old projects, Bootstrap typography tutorials, algorithms on @freecodecamp.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 72: Date: March 25, 2017
 
 **Today's Progress**: Finished Day 9 #30Days30Sites and began planning day 10.
