@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 74: Date: March 27, 2017
+
+**Today's Progress**: More Bootstrap, working on side navs & image carousels. Still working on Day 10 #30Days30Sites.
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 73: Date: March 26, 2017
 
 **Today's Progress**: Cleaned up some code on old projects, Bootstrap typography tutorials, algorithms on @freecodecamp.
