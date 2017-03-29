@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 75: Date: March 27, 2017
+
+**Today's Progress**: Python @codecademy, Bootstrap carousels, & finished Intermediate Algorithms @freecodecamp.
+
+**Thoughts**: I honestly can't believe I made it 75 days. Wow!
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 74: Date: March 27, 2017
 
 **Today's Progress**: More Bootstrap, working on side navs & image carousels. Still working on Day 10 #30Days30Sites.
