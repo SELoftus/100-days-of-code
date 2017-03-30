@@ -10,6 +10,16 @@
 1.
 2.
 
+### Day 76: Date: March 28, 2017
+
+**Today's Progress**: More work on #30Days30Sites, including linking to specific carousel slides from the nav. More Bootstrap!
+
+**Thoughts**:
+
+**Link(s) to work**:
+1.
+2.
+
 ### Day 75: Date: March 27, 2017
 
 **Today's Progress**: Python @codecademy, Bootstrap carousels, & finished Intermediate Algorithms @freecodecamp.
