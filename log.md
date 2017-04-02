@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day : Date: 
+### Day 79: Date: April 31, 2017
 
-**Today's Progress**:
+**Today's Progress**: Laid out & began coding next page for #30Days30Sites.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+1.
+2.
+
+### Day 78: Date: March 30, 2017
+
+**Today's Progress**: Photography site for #30Days30Sites, helped someone troubleshoot #CSS, some #flexbox. #coding #code #html 
 
 **Thoughts**:
 
