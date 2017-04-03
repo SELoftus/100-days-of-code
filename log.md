@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 79: Date: April 31, 2017
+### Day 80: Date: April 2, 2017
+
+**Today's Progress**: Finished coding page for #30Days30Sites, just need to sort out some of the text. Really, really looking forward to the promised improved nav styling in #Bootstrap 4.
+
+### Day 79: Date: April 1, 2017
 
 **Today's Progress**: Laid out & began coding next page for #30Days30Sites.
 
