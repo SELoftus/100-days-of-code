@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 81: Date: April 3, 2017
+
+**Today's Progress**: Unexpectedly busy day, but still managed to get coding done for #30Days30Sites, & read some Medium articles on coding, thanks to free public wifi on the buses.
+
 ### Day 80: Date: April 2, 2017
 
 **Today's Progress**: Finished coding page for #30Days30Sites, just need to sort out some of the text. Really, really looking forward to the promised improved nav styling in #Bootstrap 4.
