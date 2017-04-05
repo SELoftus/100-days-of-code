@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 82: Date: April 4, 2017
+
+**Today's Progress**: Completed a site for #30Days30Sites.
+
 ### Day 81: Date: April 3, 2017
 
 **Today's Progress**: Unexpectedly busy day, but still managed to get coding done for #30Days30Sites, & read some Medium articles on coding, thanks to free public wifi on the buses.
