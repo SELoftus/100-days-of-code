@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 83: Date: April 5, 2017
+
+**Today's Progress**: Worked on site for #30Days30Sites, learned more Bootstrap 4, added & verified prefixing on some older projects.
+
 ### Day 82: Date: April 4, 2017
 
 **Today's Progress**: Completed a site for #30Days30Sites.
