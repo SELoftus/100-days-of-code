@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 86: Date: April 8, 2017
+
+**Today's Progress**: Responsive tables & arguing with the navbar for #30Days30Sites.
+
+### Day 85: Date: April 7, 2017
+
+**Today's Progress**: Working on site for #30Days30Sites. 
+
 ### Day 84: Date: April 6, 2017
 
 **Today's Progress**: Worked on site for #30Days30Sites, more Bootstrap 4.
