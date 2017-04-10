@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+### Day 87: Date: April 9, 2017
+
+**Today's Progress**: Wireframing, advanced #javascript algorithms @freecodecamp, #Python @codecademy, & prefixing, simplifying, & tidying code.
+
+
 ### Day 86: Date: April 8, 2017
 
 **Today's Progress**: Responsive tables & arguing with the navbar for #30Days30Sites.
