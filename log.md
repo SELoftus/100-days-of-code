@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 88: Date: April 10, 2017
+
+**Today's Progress**: #Python @codecademy, #Bootstrap lists, wireframing & basic #HTML for #30Days30Sites.
 
 ### Day 87: Date: April 9, 2017
 
