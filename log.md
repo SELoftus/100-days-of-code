@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 89: Date: April 11, 2017
+
+**Today's Progress**: Played thru http://cssgridgarden.com  & http://flexboxfroggy.com . #30Days30Sites. Still arguing w/ navbars, but winning.
+
 ### Day 88: Date: April 10, 2017
 
 **Today's Progress**: #Python @codecademy, #Bootstrap lists, wireframing & basic #HTML for #30Days30Sites.
