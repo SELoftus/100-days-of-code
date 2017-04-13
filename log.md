@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 90: Date: April 12, 2017
+
+**Today's Progress**: Page for #30Days30Sites, figures, figcaptions, and card layouts in #Bootstrap.
+
 ### Day 89: Date: April 11, 2017
 
 **Today's Progress**: Played thru http://cssgridgarden.com  & http://flexboxfroggy.com . #30Days30Sites. Still arguing w/ navbars, but winning.
