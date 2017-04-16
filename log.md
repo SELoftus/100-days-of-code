@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 93: Date: April 15, 2017
+
+**Today's Progress**: Beginning attempts at algorithms in Python, page for #30Days30Sites.
+
+### Day 92: Date: April 14, 2017
+
+**Today's Progress**: Page for #30Days30Sites.
+
 ### Day 91: Date: April 13, 2017
 
 **Today's Progress**: Page for #30Days30Sites, trying different card layouts with #Bootstrap 4. Also tested the Brackets text editor - so far so good.
