@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 94: Date: April 16, 2017
+
+**Today's Progress**: Just some basic HTML today - videogames ate my brain for anything more complex. 
+
 ### Day 93: Date: April 15, 2017
 
 **Today's Progress**: Beginning attempts at algorithms in Python, page for #30Days30Sites.
