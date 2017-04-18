@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 95: Date: April 17, 2017
+
+**Today's Progress**: Symmetric Difference algorithm @freecodecamp, CSS box model as it relates to responsive design.
+
 ### Day 94: Date: April 16, 2017
 
 **Today's Progress**: Just some basic HTML today - videogames ate my brain for anything more complex. 
