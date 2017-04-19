@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 96: Date: April 18, 2017
+**Today's Progress**: Not a lot of time for coding today, but did some tutorial work on CSS selectors. Also started an algebra review to help with algorithms. (High school was...a while ago.)
+
 ### Day 95: Date: April 17, 2017
 
 **Today's Progress**: Symmetric Difference algorithm @freecodecamp, CSS box model as it relates to responsive design.
