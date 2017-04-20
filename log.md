@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 97: Date: April 19, 2017
+**Today's Progress**: Bootstrap forms. Lots of work learning Bootstrap forms with all their elements and variations.
+
 ### Day 96: Date: April 18, 2017
 **Today's Progress**: Not a lot of time for coding today, but did some tutorial work on CSS selectors. Also started an algebra review to help with algorithms. (High school was...a while ago.)
 
