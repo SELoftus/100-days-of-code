@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 98: Date: April 20, 2017
+**Today's Progress**: Validation states & form controls for #Bootstrap forms, styling with floats.
+
 ### Day 97: Date: April 19, 2017
 **Today's Progress**: Bootstrap forms. Lots of work learning Bootstrap forms with all their elements and variations.
 
