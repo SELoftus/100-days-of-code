@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 100: Date: April 20, 2017
+**Today's Progress**: Day 100: #Flexbox layouts, and #Bootstrap input groups.
+
+Plus, hey! Day 100! Gif party time!
+
+### Day 99: Date: April 20, 2017
+**Today's Progress**: Floats & some #flexbox over on http://internetingishard.com.ln.is/N4HW3 . More algebra review for algorithms as well. #html #css #code
 ### Day 98: Date: April 20, 2017
 **Today's Progress**: Validation states & form controls for #Bootstrap forms, styling with floats.
 
